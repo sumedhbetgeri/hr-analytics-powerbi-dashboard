@@ -1,1 +1,3 @@
 # hr-analytics-powerbi-dashboard
+
+This project presents an interactive HR Analytics Dashboard developed in Power BI to analyze employee workforce data and identify key trends related to attrition, demographics, department performance, and job satisfaction. The dashboard highlights core KPIs such as total employees, attrition rate, active employees, and average age, along with detailed visual breakdowns by department, education field, age group, and gender. The project demonstrates practical skills in data preparation, SQL-based data handling, DAX measure creation, and business-focused dashboard design to support data-driven HR insights and decision-making.

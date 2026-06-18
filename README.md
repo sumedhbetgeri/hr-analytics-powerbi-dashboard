@@ -158,7 +158,7 @@ The objective of this project is to analyze employee attrition patterns and prov
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard_overview.png" width="1000">
+  <img src="assets/HR_analytics_dashboard_overview.png" width="1000">
 </p>
 
 ---

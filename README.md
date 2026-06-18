@@ -36,7 +36,7 @@ The dashboard enables HR teams and decision-makers to:
 hr-analytics-powerbi-dashboard/
 │
 ├── assets/
-│   └── dashboard_overview.png
+│   └── HR_Analytics_Dashboard_overview.png
 │
 ├── data/
 │   └── HR_Analytics.csv
